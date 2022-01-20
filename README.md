@@ -1,11 +1,4 @@
 
-[![Build Status](https://github.com/sansjha4900/web-for-azure/actions/workflows/azure-static-web-apps-nice-plant-085155400.yml/badge.svg?branch=main)](https://github.com/sansjha4900/web-for-azure/actions/workflows/azure-static-web-apps-nice-plant-085155400.yml)
-
-<a href="LICENSE"><img src="https://img.shields.io/badge/License-MIT-purple.svg?labelColor=303030" /></a>
-<br />
-
-![](https://i.imgur.com/waxVImv.png)
-
 ## About The Project
 
 <div>
